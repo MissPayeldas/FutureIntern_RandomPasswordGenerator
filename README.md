@@ -1,4 +1,5 @@
 🔐 Random Password Generator
+
 Welcome to my Random Password Generator project, developed as part of my Python internship with Future Intern! This tool generates secure, random passwords to help ensure your accounts are safe from unauthorized access.
 
 🛠️ Project Overview
